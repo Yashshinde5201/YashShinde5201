@@ -4,6 +4,10 @@
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-lDrVzVUUou_SL6JysO9Wv-h4nqjgOOY5VHCIxgvEJXnDAYJfTxPZ7KxllzlkypJ_zo&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YashShinde5201&label=Profile%20views&color=0e75b6&style=flat" alt="YashShinde5201" /> </p>
 
+- 🌱 I’m currently learning **Data Scientist & Analysis Certifications**
+
+- 💬 Ask me about **Python,ML,AI,PowerBi,Tableau,Advanced Excel,MySQL**
+
 - 📫 How to reach me **yashgymnast5201@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
